@@ -1,2 +1,8 @@
 # Movie-list
-This is a Movie list web page. You can search movies with movie name, by clicking more button you can checkout a brief description of the movie. And you can also add and remove movie to your favoirte list.
+This is a Movie list web page with 200 movies.
+
+# Features
+- Checkout movie info by clicking more button
+- Search movie by name
+- Add movie to your favorite list
+- Remove movie from your favorite list
